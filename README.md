@@ -67,15 +67,6 @@ A closer look at my activity and contributions on GitHub.
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/shreyash0216" alt="Contribution Calendar" width="100%"/>
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section. Example workflow: https://github.com/shreyash0216/shreyash0216/blob/main/.github/workflows/activity.yml -->
-- ⚙️ Workflow `build` run was cancelled for [Update activity](https://github.com/shreyash0216/shreyash0216/actions/runs/9843343419).
-- ⚙️ Workflow `build` run was cancelled for [Update activity](https://github.com/shreyash0216/shreyash0216/actions/runs/9843340576).
-- ⚙️ Workflow `build` run was cancelled for [Update activity](https://github.com/shreyash0216/shreyash0216/actions/runs/9843328225).
-- ⚙️ Workflow `build` run was cancelled for [Update activity](https://github.com/shreyash0216/shreyash0216/actions/runs/9843321946).
-- ⚙️ Workflow `build` run was cancelled for [Update activity](https://github.com/shreyash0216/shreyash0216/actions/runs/9843306124).
-<!--END_SECTION:activity-->
 
 ## 🏗️ Notable Projects
 
@@ -117,9 +108,9 @@ Showcasing some of my work that I'm particularly proud of. Each project represen
 - 📜 **NPTEL – Problem Solving Through Programming in C**
 - 📜 **MKCL KLiC – C Programming**
 
-## 🎯 2024 Goals
+## 🎯 2026 Goals
 <!-- TODO: Update with your current year's professional and personal development goals -->
-- 🚀 Strengthen core programming skills in C & C++
+- 🚀 Strengthen core programming skills in Java
 - 📚 Master Flutter & Dart for cross-platform app development
 - 🌟 Contribute meaningfully to open-source or college tech initiatives
 - 📝 Improve documentation and project architecture clarity
