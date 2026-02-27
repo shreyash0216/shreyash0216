@@ -42,19 +42,6 @@ Welcome to my GitHub! I'm a Computer Science student focused on writing clean, l
   <img src="https://img.shields.io/badge/Tesseract-gray?style=for-the-badge" alt="Tesseract" />
 </p>
 
-## 📊 Comprehensive GitHub Analytics
-
-A closer look at my activity and contributions on GitHub.
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyash0216&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash0216&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyash0216&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
-</p>
 
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyash0216&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
@@ -121,7 +108,7 @@ I'm always open to new opportunities, collaborations, or just a friendly chat ab
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) <!-- TODO: Add your LinkedIn profile URL -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-atre-901340317/) <!-- TODO: Add your LinkedIn profile URL -->
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/atre_shreyash)
 
