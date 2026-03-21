@@ -1,4 +1,4 @@
-# 👨‍💻 shreyash0216 | Aspiring Software Developer
+# 👨‍💻 shreyash0216 | Software Developer
 ### 🚀 Building practical solutions, one line of code at a time
 
 Welcome to my GitHub! I'm a Computer Science student focused on writing clean, logical, and maintainable code. I enjoy working across frontend, Python-based systems, and core programming concepts while continuously strengthening my fundamentals in software development.
