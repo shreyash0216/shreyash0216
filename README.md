@@ -135,7 +135,7 @@ I'm always open to new opportunities, collaborations, or a good technical conver
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyash0216&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shreyash0216.shreyash0216&color=blueviolet&style=for-the-badge&left_text=Profile%20Views"/>
 
   ### 🚀 "Strong fundamentals beat flashy buzzwords."
 
