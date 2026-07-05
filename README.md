@@ -1,47 +1,51 @@
-# 👨‍💻 shreyash0216 | Software Developer
-### 🚀 Building practical solutions, one line of code at a time
+# 👨‍💻 Shreyash Atre | Software Engineer
+### 🚀 Backend-focused engineer building production APIs, AI-powered systems, and full-stack SaaS
 
-Welcome to my GitHub! I'm a Computer Science student focused on writing clean, logical, and maintainable code. I enjoy working across frontend, Python-based systems, and core programming concepts while continuously strengthening my fundamentals in software development.
+Welcome to my GitHub! I'm a Software Engineer building scalable backend systems, AI-integrated applications, and cross-platform software. Founder of **Syantrex Technologies**, currently interning at **Moash**, with prior production experience at **Careasa Healthcare**.
 
 ## 🎯 Current Focus
 
-- 🔭 Working on: **Frontend, Python-based, and learning-focused projects**
-- 🌱 Learning: **Flutter & Dart, Backend APIs, and Cloud fundamentals**
-- 👯 Looking to collaborate on: **Beginner-friendly Open Source projects (Web / Python / CS fundamentals)**
-- 💬 Ask me about: **C, C++, Python, Frontend basics, APIs, problem-solving**
-- ⚡ Fun fact: **I enjoy breaking down problems logically before touching code**
+- 🔭 Working on: **Syantrex's ERP Super Admin Panel (multi-tenant SaaS)** and **Menuara**, a multi-tenant restaurant management SaaS at Moash
+- 🌱 Deepening: **System design, cloud infrastructure (AWS/OCI), and AI-integrated backend architecture**
+- 👯 Looking to collaborate on: **Backend systems, AI-powered tools, and full-stack SaaS projects**
+- 💬 Ask me about: **Node.js/Express APIs, Flutter, React/Next.js, AWS, System Design**
+- ⚡ Fun fact: **I'd rather architect the system twice than patch it forever**
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-### 🚀 Frameworks & Libraries
+### 🚀 Frameworks & Backend
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Tkinter-gray?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
-  <img src="https://img.shields.io/badge/Pygame-gray?style=for-the-badge&logo=python&logoColor=white" alt="Pygame" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
-### ☁️ Tools & Dev Environment
+### ☁️ Cloud, Data & DevOps
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Tesseract-gray?style=for-the-badge" alt="Tesseract" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
 
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyash0216&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
@@ -55,18 +59,30 @@ Welcome to my GitHub! I'm a Computer Science student focused on writing clean, l
 <img src="https://ghchart.rshah.org/409ba5/shreyash0216" alt="Contribution Calendar" width="100%"/>
 
 
-## 🏗️ Notable Projects
-
-Showcasing some of my work that I'm particularly proud of. Each project represents a learning journey and a commitment to quality.
+## 🏗️ Flagship Projects
 
 <div align="center">
 
-### 🌟 Quizzify – LLM-Powered Quiz Game
+### 🩺 DermaScanAI — Backend Lead
+**2nd Prize, college-wide technical competition**
+*Architected the backend and API layer for a computer-vision-based dermatological condition classifier — handling image upload pipelines, prediction requests, and healthcare data workflows.*
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyash0216&repo=Quizzify&theme=tokyonight)](https://github.com/shreyash0216/Quizzify)
+---
 
-**Tech Stack:** Python • Hugging Face API • Tkinter • Pygame
-*A quiz system featuring dynamic question generation, scoring logic, JSON validation, and structured UI workflows.*
+### 🌍 GRA — Generative Resilience Agent — Lead Developer
+*Built for the AWS ImpactX Challenge (Team COSMOS): an AI-assisted climate adaptation and crop decision-support platform using the Gemini API, with a fault-tolerant offline fallback engine holding 99% uptime through API failures.*
+
+---
+
+### 🍽️ Menuara — Multi-Tenant Restaurant SaaS (at Moash)
+**Tech Stack:** Next.js 14 • TypeScript • Supabase
+*Full-stack SaaS covering QR ordering, kitchen display systems, and GST-compliant billing, built with subdomain-based multi-tenancy.*
+
+---
+
+### 📱 CareasaCRM2 — Flutter CRM App (at Careasa Healthcare)
+**Tech Stack:** Flutter • Node.js • Express.js
+*Flutter-based CRM app backed by a Node/Express API, including independent resolution of SDK dependency conflicts and build pipeline issues.*
 
 ---
 
@@ -75,64 +91,45 @@ Showcasing some of my work that I'm particularly proud of. Each project represen
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyash0216&repo=Object-Detection&theme=tokyonight)](https://github.com/shreyash0216/Object-Detection)
 
 **Tech Stack:** Python • OpenCV • YOLOv3 • Tesseract
-*An AI-powered assistant for object detection, text extraction, and QR/barcode recognition with optimized inference flow.*
-
----
-
-### ⚡ Sphere Coding Club – Official Website
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyash0216&repo=sphere-coding-club&theme=tokyonight)](https://github.com/shreyash0216/sphere-coding-club)
-
-**Tech Stack:** HTML • CSS • JavaScript
-*A fully responsive website built with clean structure, reusable UI sections, and cross-device compatibility.*
+*A computer vision pipeline for object detection, multilingual text extraction, and QR/barcode recognition with optimized inference flow.*
 
 </div>
 
+## 🧩 Other Projects
+
+- **Quizzify** — LLM-powered quiz game (Python, Hugging Face API, Tkinter, Pygame) — [repo](https://github.com/shreyash0216/Quizzify)
+- **Sphere Coding Club Website** — responsive club website (HTML, CSS, JavaScript) — [repo](https://github.com/shreyash0216/sphere-coding-club)
+
 ## 🎓 Certifications & Achievements
-<!-- TODO: Add your certifications, relevant online courses, hackathon wins, or significant achievements -->
-- 📜 **OCI Certified Generative AI Professional**
-- 📜 **Deloitte Australia Technology Job Simulation**
-- 📜 **NPTEL – Problem Solving Through Programming in C**
-- 📜 **MKCL KLiC – C Programming**
+
+- 📜 **Oracle Cloud Infrastructure – Generative AI Professional**
+- 📜 **Scalar — Fundamentals of Docker & Kubernetes**
+- 🏆 **AWS ImpactX Hackathon Participant — IIT Bombay**
+- 🥈 **2nd Prize Winner — College Project Competition (DermaScanAI)**
 
 ## 🎯 2026 Goals
-<!-- TODO: Update with your current year's professional and personal development goals -->
-- 🚀 Strengthen core programming skills in Java
-- 📚 Master Flutter & Dart for cross-platform app development
-- 🌟 Contribute meaningfully to open-source or college tech initiatives
-- 📝 Improve documentation and project architecture clarity
+
+- 🚀 Ship Menuara and the Syantrex ERP Super Admin Panel to production
+- 📚 Deepen system design and distributed systems fundamentals
+- 🌟 Grow Syantrex Technologies' client base beyond the first engagement
+- 📝 Keep project documentation and architecture write-ups current
 
 ## 🌐 Let's Connect & Collaborate
 
-I'm always open to new opportunities, collaborations, or just a friendly chat about technology. Feel free to reach out!
+I'm always open to new opportunities, collaborations, or a good technical conversation.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-atre-901340317/) <!-- TODO: Add your LinkedIn profile URL -->
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-atre-901340317/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/atre_shreyash)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DUYcFzx3N/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theshreyash16/)
-
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyashatre16@gmail.com) <!-- TODO: Add your professional email address -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyashatre16@gmail.com)
 
 ### 📱 Social Presence
 
 [![GitHub followers](https://img.shields.io/github/followers/shreyash0216?style=social)](https://github.com/shreyash0216)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/atre_shreyash?style=social)](https://x.com/atre_shreyash)
 
-</div>
-
----
-
-<!-- Removed standard support section as not requested in prompt -->
-
-<div align="center">
-  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
 </div>
 
 ---
@@ -144,4 +141,3 @@ I'm always open to new opportunities, collaborations, or just a friendly chat ab
 
   <sub>⭐ Star repositories you actually learn from.</sub>
 </div>
-
