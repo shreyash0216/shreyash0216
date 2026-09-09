@@ -136,23 +136,6 @@ Key contributions included:
 
 </div>
 
-<br>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shreyash0216&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-    alt="GitHub Statistics"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash0216&layout=compact&hide_border=true&theme=github_dark"
-    alt="Top Languages"
-    height="180"
-  />
-
-</div>
 
 ---
 
