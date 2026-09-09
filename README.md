@@ -128,16 +128,30 @@ Key contributions included:
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyash0216&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyash0216&theme=github_dark"
+    alt="GitHub Profile Summary"
+    width="100%"
+  />
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash0216&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<br>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/409ba5/shreyash0216" alt="Contribution Calendar" width="100%"/>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shreyash0216&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+    alt="GitHub Statistics"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash0216&layout=compact&hide_border=true&theme=github_dark"
+    alt="Top Languages"
+    height="180"
+  />
+
 </div>
 
 ---
